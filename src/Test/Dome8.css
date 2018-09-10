@@ -1,0 +1,15 @@
+.bg-red {
+    background: red;
+}
+
+.font-green {
+    color: #78ff67;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
