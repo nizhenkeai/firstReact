@@ -11,7 +11,7 @@ import Dome7 from './Test/Dome7';
 import Dome8 from './Test/Dome8';
 import Father from './Test/Dome9';
 import Dome10 from './Test/Dome10';
-import Dome11 from './Test/Dome11';
+import Dome12 from './Test/Dome12';
 import {BrowserRouter, Route, NavLink, Link} from 'react-router-dom'
 
 class App extends Component {
@@ -28,7 +28,7 @@ class App extends Component {
                     <img src={logo} className="App-logo" alt="logo"/>
                     <h1 className="App-title">Welcome to React</h1>
                 </header>
-                <Dome11 />
+                <Dome12 />
 
                 <BrowserRouter>
 
