@@ -15,7 +15,8 @@
 ### 插入图片       
 ![baidu图片](http://www.baidu.com/img/bdlogo.gif)       
 ### 给图片加上超链接   
-[![http://www.baidu.com/img/bdlogo.gif]](http://baidu.com)  
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif 
 ### 水平分割线    
 ***     
 ### 无序列表  
