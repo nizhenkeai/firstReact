@@ -15,17 +15,17 @@
 插入图片       ![baidu图片](http://www.baidu.com/img/bdlogo.gif)       
 给图片加上超链接   
 [![http://www.baidu.com/img/bdlogo.gif]](http://baidu.com)  
-水平分割线    
+### 水平分割线    
 ***     
-无序列表  
+### 无序列表  
 * 在哪吃   
 * 吃什么   
-*一起呀   
-有序列表   
+* 一起呀   
+### 有序列表   
 1. 在哪吃   
 2. 吃什么   
 3. 一起呀   
-缩进   
+### 缩进   
 > 在哪吃   
 >> 吃什么   
 >>> 一起呀   
