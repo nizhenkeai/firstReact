@@ -11,9 +11,10 @@
 *斜体1*       _斜体2_   
 **加粗1**     __加粗2__      
 ~~删除~~    
-文字超连接     [我的firstReact项目](https://github.com/nizhenkeai/firstReact)   
-插入图片       ![baidu图片](http://www.baidu.com/img/bdlogo.gif)       
-给图片加上超链接   
+### 文字超连接     [我的firstReact项目](https://github.com/nizhenkeai/firstReact)   
+### 插入图片       
+![baidu图片](http://www.baidu.com/img/bdlogo.gif)       
+### 给图片加上超链接   
 [![http://www.baidu.com/img/bdlogo.gif]](http://baidu.com)  
 ### 水平分割线    
 ***     
