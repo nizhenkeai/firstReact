@@ -28,7 +28,7 @@ class Dome12 extends React.Component {
 
 
     render() {
-        let isUnConsumeView = <div><span>你是我的好朋友</span></div>
+        let isUnConsumeView = <div><span>我就是相试试dev的分支</span></div>
         return (
             <div>
                 <Dome11 ref={this.textInput}/>
